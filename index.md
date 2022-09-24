@@ -21,6 +21,14 @@
 
 <center><img src="assets/images/fraud.png"/></center>
 
+#### Price
 
-*Developed By Suchin chouta*
+
+| Basic        | Student           | Premium  |
+| ------------- |:-------------:| -----:|
+| $100      | $500  | $1600 |
+
+
+
+######  *Developed By Suchin chouta* ###### 
  
